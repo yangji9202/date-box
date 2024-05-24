@@ -16,5 +16,5 @@ jobs:
         env:
           TYPE: DAY
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: 9686a5c3eef9e8592fa8dcc715e1ce6b
+          GIST_ID: b2a0afcf27ef0a7e5662728f593bb8f1
           RECORDS: "1992-02-01 _ 탄신일 | 2025-02-01 _ BIRTHDAY"
